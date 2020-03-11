@@ -7,13 +7,13 @@ actor = {name:"Antonio Banderas"}
 end
 
 def monopoly
-	monopoly = {monopoly = {
+	monopoly = {
 	  :transit =>
 	{
 	:pieces => 4,
 	:rent_in_dollars => 20}
 	]
-
+}
 
 end
 
