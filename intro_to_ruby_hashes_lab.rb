@@ -14,7 +14,6 @@ def monopoly
 	:rent_in_dollars => 20}
 	]
 
-}
 
 end
 
